@@ -6,3 +6,4 @@ def do_subtraction(a, b):
 
 def do_multiplication(a, b):
     return a * b
+
