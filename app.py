@@ -12,7 +12,7 @@ def main():
     4. Division
     5. Area of Rectangle
     """
-    input_choice = input("Please enter your choice (1, 2 or 3): ")
+    input_choice = input("Please enter your choice (1, 2, 3, 4 or 5): ")
     a = int(input("Enter first number: "))
     b = int(input("Enter second number: "))
 
